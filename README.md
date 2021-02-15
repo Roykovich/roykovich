@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi there, I'm Rubén 👋
 
-<!--
-**Roykovich/roykovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Software Developer and a nerd. May the force be with you.
 
-Here are some ideas to get you started:
+#### My current doings:
+* Learning React :desktop: and React Native :iphone:.
+* Looking forward to take a TypeScript course.
+* Improve my git knowledge.
+* My portfolio.
+#### My current challenges:
+* Write code everyday at least 3-6 hours a day.
+* Work on my personal projects :computer: every weekend.
+* Workout :weight_lifting_man: 3 days a week.
+* Complete my #ReadingChallenge of 2021. (4/20 books) 
+* Get out from tutorial hell.
+* Avoid procrastination.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :computer: Languages and Tools:
+
+<p>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+</p>
+
+#### :books: Languages and Tools that I want to learn:
+
+<p>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
+</p>

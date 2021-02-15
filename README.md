@@ -3,7 +3,7 @@
 ### I'm a Software Developer and a nerd. May the force be with you.
 
 #### My current doings:
-* Learning React :desktop: and React Native :iphone:.
+* Learning React :computer: and React Native :iphone:.
 * Looking forward to take a TypeScript course.
 * Improve my git knowledge.
 * My portfolio.

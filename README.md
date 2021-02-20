@@ -19,7 +19,7 @@
 
 <p>
   <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-  <img width="10%" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">

@@ -11,7 +11,7 @@
 * Write code everyday at least 3-6 hours a day.
 * Work on my personal projects :computer: every weekend.
 * Workout :weight_lifting_man: except on weekends.
-* Complete my #ReadingChallenge of 2021. (6/20 books) 
+* Complete my #ReadingChallenge of 2021. (7/20 books) 
 * Get out from tutorial hell.
 * Avoid procrastination.
 

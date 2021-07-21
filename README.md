@@ -8,11 +8,10 @@
 * Improve my git knowledge.
 * My portfolio.
 #### My current challenges:
-* Write code everyday at least 3-6 hours a day.
+* Write code everyday at least 2-4 hours a day.
 * Work on my personal projects :computer:
 * Workout :weight_lifting_man: except on weekends.
 * Complete my #ReadingChallenge of 2021. (7/20 books) 
-* Get out from tutorial hell.
 * Avoid procrastination.
 
 #### :computer: Languages and Tools:

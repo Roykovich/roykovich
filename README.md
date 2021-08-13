@@ -1,4 +1,4 @@
-### Hi there, I'm Rubén 👋
+### Hello there! I'm Rubén.
 
 ### I'm a Software Developer and a nerd. May the force be with you.
 

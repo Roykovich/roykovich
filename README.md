@@ -2,16 +2,16 @@
 
 ### I'm a Software Developer and a nerd. May the force be with you.
 
-#### My current doings:
+#### What I'm doing right now:
 * Mastering React :computer:
 * Looking forward to take a TypeScript course.
 * Improve my git knowledge.
 * My portfolio.
-#### My current challenges:
+#### What are my current challenges:
 * Write code everyday at least 2-4 hours a day.
 * Work on my personal projects :computer:
 * Complete my #ReadingChallenge of 2021. (7/20 books) 
-* Avoid procrastination.
+* Find a tech dev job.
 
 #### :computer: Languages and Tools:
 

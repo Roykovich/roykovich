@@ -10,8 +10,8 @@
 #### What are my current challenges:
 * Write code everyday at least 2-4 hours a day.
 * Work on my personal projects :computer:
-* Complete my #ReadingChallenge of 2021. (7/20 books) 
-* Find a tech dev job.
+* Complete my #ReadingChallenge of 2021. (8/20 books) 
+* Find a dev job.
 
 #### :computer: Languages and Tools:
 

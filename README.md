@@ -4,6 +4,7 @@
 
 #### What I'm doing right now:
 * Mastering React :computer:
+* Learn Python.
 * Looking forward to take a TypeScript course.
 * Improve my git knowledge.
 * My portfolio.

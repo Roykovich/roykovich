@@ -5,7 +5,6 @@
 #### What I'm doing right now:
 * Mastering React :computer:
 * Improve my git knowledge.
-* Looking forward to take a React Native course.
 * Learn UI/UX.
 * My portfolio.
 #### What are my current challenges:

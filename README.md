@@ -1,15 +1,16 @@
 ### Hello there! I'm Rubén.
 
-### I'm a Software Developer and a nerd. May the force be with you.
+### I'm a Software Developer, Cybersecurity student and a nerd. May the force be with you.
 
 #### What I'm doing right now:
-* Mastering React :computer:
-* Improve my git knowledge.
-* Learn UI/UX.
+* Learning Python
+* Mastering React
+* Improving my git knowledge.
+* Learning UI/UX.
 * My portfolio.
 #### What are my current challenges:
 * Write code everyday at least 2-4 hours a day.
-* Work on my personal projects :computer:
+* Work on my personal projects
 * Find a dev job.
 
 #### :computer: Languages and Tools:

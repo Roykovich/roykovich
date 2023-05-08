@@ -3,10 +3,10 @@
 ### I'm a Software Developer, Cybersecurity student and a nerd. May the force be with you.
 
 #### What I'm doing right now:
+* Studying Cybersec
 * Learning Python
 * Mastering React
 * Improving my git knowledge.
-* Learning UI/UX.
 * My portfolio.
 #### What are my current challenges:
 * Write code everyday at least 2-4 hours a day.

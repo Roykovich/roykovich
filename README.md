@@ -35,11 +35,6 @@
   <img width="5%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
   <img width="5%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
   <img width="5%" src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg">
-</p>
-<p>
   <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
 </p>
-
-

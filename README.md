@@ -10,7 +10,7 @@
 #### 📍 What are my current challenges:
 * Write code or do research everyday at least 2-4 hours a day.
 * Work on my personal projects
-* Find my way to get my [eJPT](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/](https://security.ine.com/certifications/ejpt-certification/)
+* Find my way to get my [eJPT](https://security.ine.com/certifications/ejpt-certification/)
 * Land in a tech job.
 
 #### :computer: Languages and Tools:

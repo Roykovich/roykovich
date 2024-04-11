@@ -6,7 +6,6 @@
 * Studying Cybersec
 * Mastering my Python skills.
 * Improving my linux knowledge.
-* Whatching Network Defense Essentialsin EC-Council
 #### 📍 What are my current challenges:
 * Write code or do research everyday at least 2-4 hours a day.
 * Work on my personal projects
